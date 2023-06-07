@@ -26,7 +26,7 @@ VALUES ('Michael Jackson', 'Thriller', 1982, 51.2,'Pop'),
        ('Santana', 'Supernatural', 1999, 20.8, 'Latin rock'),
        ('Madonna', 'The Immaculate Collection', 1990, 19.8, 'Pop'),
        ('Pink Floyd', 'The Wall', 1979, 18.9, 'Progressive rock'),
-       ('The Beatles', 'Sgt Pepper''s Lonely Heart Club Band', 1967, 18.3, 'Rock'),
+       ('The Beatles', 'Sgt. Pepper''s Lonely Hearts Club Band', 1967, 18.3, 'Rock'),
        ('Michael Jackson', 'Dangerous', 1991, 17, 'New Jack Swing'),
        ('The Beatles', 'Abbey Road', 1969, 16.9, 'Rock'),
        ('Nirvana', 'Nevermind',1991, 17, 'Acoustic Rock');
