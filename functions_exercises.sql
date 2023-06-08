@@ -57,5 +57,5 @@ ORDER BY birth_date, hire_date DESC;
 # 6
 SELECT DATEDIFF(hire_date,CURDATE()) AS days_worked FROM employees
 WHERE month(birth_date) = 12
-  AND day(birth_date) = 25;
+AND day(birth_date) = 25;
 
