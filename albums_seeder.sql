@@ -34,4 +34,6 @@ VALUES ('Michael Jackson', 'Thriller', 1982, 51.2,'Pop'),
        ('Nirvana', 'Nevermind',1991, 17, 'Acoustic Rock');
 
 
-
+# # attempting to add duplicate
+# INSERT INTO albums (artist, name, release_date, sales, genre)
+# VALUES ('Michael Jackson', 'Thriller', 1982, 51.2,'Pop');
