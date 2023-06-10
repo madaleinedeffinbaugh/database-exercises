@@ -25,3 +25,9 @@ VALUES ('bob', 'bob@example.com', 1),
        ('adam', 'adam@example.com', 3),
        ('jane', 'jane@example.com', null),
        ('mike', 'mike@example.com', null);
+
+INSERT INTO users (name, email, role_id)
+VALUES ('jake', 'jake@example.com', 1),
+       ('john', 'john@example.com', 2),
+       ('ashley', 'ashley@example.com', 3),
+       ('sara', 'sara@example.com', null);
